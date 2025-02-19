@@ -668,6 +668,7 @@ footer {
 
     header .menu ul li a {
         padding: 10px 40px;
+        margin-left: -25px;
     }
 
     header .menu:hover .bg-menu {
